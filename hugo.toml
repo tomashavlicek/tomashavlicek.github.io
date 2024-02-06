@@ -1,0 +1,33 @@
+baseURL = 'https://tomashavlicek.github.io/'
+languageCode = 'en-us'
+theme = "hugo-coder"
+title = 'Tomas Havlicek'
+
+[params]
+author = "Tomas Havlicek"
+license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0<a>'
+description = "Tomas Havlicek's personal website"
+keywords = "blog,developer,personal"
+info = ["Mobile Security", "Android Software Engineer"]
+
+colorScheme = "auto"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/tomashavlicek/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa-brands fa-twitter fa-2x"
+weight = 3
+url = "https://twitter.com/tomashavlicek_"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "www.linkedin.com/in/havlicektomas"
+
+
